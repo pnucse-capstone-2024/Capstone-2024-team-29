@@ -10,12 +10,14 @@
 
 ### 2. 상세설계
 #### 2.1. 시스템 구성도
-> 시스템 구성도(infra, front, back등의 node 간의 관계)의 사진을 삽입하세요.
+> ![system architecture](https://github.com/user-attachments/assets/82258912-e720-41da-a66f-3b5aa3425a04)
+1. Unity Simulator를 통해 셀 이미지를 생성한다
+2. 전처리를 통해 학습데이터 생성 후 YOLOv8 모델을 학습시킨다.
+3. 이를 통해 나타난 결과를 분석 및 추론한다.
 
 #### 2.1. 사용 기술
-> 스택 별(backend, frontend, designer등) 사용한 기술 및 버전을 작성하세요.
-> 
-> ex) React.Js - React14, Node.js - v20.0.2
+> Unity Editor 2022.3.35f1   
+> python(3.11.5 이상)
 
 ### 3. 설치 및 사용 방법
 > 제품을 설치하기 위헤 필요한 소프트웨어 및 설치 방법을 작성하세요.
