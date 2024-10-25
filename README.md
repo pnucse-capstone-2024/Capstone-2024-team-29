@@ -40,4 +40,4 @@
 > 201924576@pusan.ac.kr   
 > 류태욱   
 > 시뮬레이터 고도화   
-> 201924576@pusan.ac.kr
+> ryuty77@pusan.ac.kr
