@@ -29,7 +29,8 @@
 
 
 ### 4. 소개 및 시연 영상
-> 프로젝트에 대한 소개와 시연 영상을 넣으세요.
+[![2024년 전기 졸업과제 29 Split](http://img.youtube.com/vi/oXUeMIzPwbE/0.jpg)](https://www.youtube.com/watch?v=oXUeMIzPwbE)
+
 
 ### 5. 팀 소개
 > 김주언   
